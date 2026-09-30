@@ -4,11 +4,6 @@ This directory is the self-contained submission and reproducibility package for
 the 23-page SIADS manuscript.
 
 ## Contents
-
-- `paper/main.pdf`: submission-ready manuscript.
-- `paper/main.tex`: manuscript source, bibliography, SIAM class, and the five
-  final figures.
-- `plot/`: fast figure regeneration from retained numerical results.
 - `experiments/`: exact finite-state calculations, the cached Brusselator lag
   and spectral analyses, and the four-network closure benchmark.
 - `src/`: only the matrix-logarithm, semigroup-defect, stoichiometric extraction,
